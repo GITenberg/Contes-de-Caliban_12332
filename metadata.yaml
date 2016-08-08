@@ -1,0 +1,29 @@
+_repo: Contes-de-Caliban_12332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bergerat, Emile
+    aliases:
+    - Bergerat, Émile
+    - Bergerat, Auguste-Emile
+    - Caliban
+    birthdate: 1845
+    deathdate: 1923
+    gutenberg_agent_id: '4321'
+    url: http://www.gutenberg.org/2009/agents/4321
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12332'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+- GITenberg
+title: Contes de Caliban
+url: http://www.gutenberg.org/ebooks/12332
